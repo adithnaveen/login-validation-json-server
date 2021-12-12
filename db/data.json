@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "Avanti",
+      "password": "Avanti@123",
+      "email": "avanti@yahoo.com",
+      "gender": "Female"
+    },
+    {
+      "userName": "nav",
+      "email": "nav@gmail.com",
+      "password": "nav",
+      "id": "IqGh_ME"
+    },
+    {
+      "userName": "naveen",
+      "email": "nav1@gmail.com",
+      "password": "nav",
+      "id": "ERjTMzo"
+    },
+    {
+      "userName": "naveenkumar",
+      "email": "n1@n.com",
+      "password": "nave",
+      "id": "qWU2WZW"
+    }
+  ]
+}

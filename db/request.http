@@ -1,0 +1,8 @@
+GET http://localhost:3000/users?email=avanti@yahoo.com&password=Avanti@123
+
+
+
+###
+
+
+GET http://localhost:3000/users
